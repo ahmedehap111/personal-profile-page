@@ -425,6 +425,7 @@ body,
   background: transparent;
   border-bottom: 0.1rem solid var(--color-input-border);
   flex: 1;
+  color: white;
 }
 
 .contact__textarea {
